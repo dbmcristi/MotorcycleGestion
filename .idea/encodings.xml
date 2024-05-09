@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/DomainModule/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DomainModule/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GestionMotorcyvleJavFX/Domain/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GestionMotorcyvleJavFX/Domain/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GestionMotorcyvleJavFX/Repository/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GestionMotorcyvleJavFX/Repository/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GestionMotorcyvleJavFX/ServiceMoto/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GestionMotorcyvleJavFX/ServiceMoto/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GestionMotorcyvleJavFX/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GestionMotorcyvleJavFX/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JDBCUtils/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JDBCUtils/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/NetworkModuleCSharp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/NetworkModuleCSharp/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/NetworkUtils/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/NetworkUtils/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/NetworkingUtils/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/NetworkingUtils/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RepoModule/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RepoModule/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RepoModule2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RepoModule2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ServerProtoBuff/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ServerProtoBuff/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ServiceModule/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ServiceModule/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ServiceModule2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ServiceModule2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SubaruBaja/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SubaruBaja/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SubaruForester/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SubaruForester/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SubaruImpreza/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SubaruImpreza/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

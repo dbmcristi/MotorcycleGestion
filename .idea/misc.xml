@@ -1,0 +1,44 @@
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/HibernateModule" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/GestionMotorcyvleJavFX/pom.xml" />
+        <option value="$PROJECT_DIR$/Service/pom.xml" />
+        <option value="$PROJECT_DIR$/ServiceModule/pom.xml" />
+        <option value="$PROJECT_DIR$/DomainModule/pom.xml" />
+        <option value="$PROJECT_DIR$/RepoModule/pom.xml" />
+        <option value="$PROJECT_DIR$/SubaruImpreza/pom.xml" />
+        <option value="$PROJECT_DIR$/JDBCUtils/pom.xml" />
+        <option value="$PROJECT_DIR$/RepoModule2/pom.xml" />
+        <option value="$PROJECT_DIR$/SubaruForester/pom.xml" />
+        <option value="$PROJECT_DIR$/SubaruBaja/pom.xml" />
+        <option value="$PROJECT_DIR$/ServiceModule2/pom.xml" />
+        <option value="$PROJECT_DIR$/Server/pom.xml" />
+        <option value="$PROJECT_DIR$/NetworkingModule/pom.xml" />
+        <option value="$PROJECT_DIR$/NetworkUtils/pom.xml" />
+        <option value="$PROJECT_DIR$/NetworkModuleCSharp/pom.xml" />
+        <option value="$PROJECT_DIR$/ServerProtoBuff/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/GestionMotorcyvleJavFX/Domain/pom.xml" />
+        <option value="$PROJECT_DIR$/GestionMotorcyvleJavFX/Repository/pom.xml" />
+        <option value="$PROJECT_DIR$/GestionMotorcyvleJavFX/ServiceMoto/pom.xml" />
+        <option value="$PROJECT_DIR$/GestionMotorcyvleJavFX/pom.xml" />
+        <option value="$PROJECT_DIR$/RepoModule/pom.xml" />
+        <option value="$PROJECT_DIR$/Service/pom.xml" />
+        <option value="$PROJECT_DIR$/ServiceModule/pom.xml" />
+        <option value="$PROJECT_DIR$/SubaruForester/pom.xml" />
+        <option value="$PROJECT_DIR$/SubaruImpreza/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="corretto-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

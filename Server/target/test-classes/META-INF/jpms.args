@@ -1,0 +1,4 @@
+--patch-module
+myproject.server=_
+--add-reads
+myproject.server=ALL-UNNAMED

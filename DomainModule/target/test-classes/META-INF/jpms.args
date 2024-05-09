@@ -1,0 +1,4 @@
+--patch-module
+myproject.domain=_
+--add-reads
+myproject.domain=ALL-UNNAMED

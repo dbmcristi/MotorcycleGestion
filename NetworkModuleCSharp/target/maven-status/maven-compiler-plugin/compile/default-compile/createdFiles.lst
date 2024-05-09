@@ -1,0 +1,11 @@
+networkcsharp\User.class
+networkcsharp\RequestDto.class
+networkcsharp\SocketController.class
+networkcsharp\Entity.class
+module-info.class
+networkcsharp\Main.class
+networkcsharp\UserDto.class
+networkcsharp\IResponse.class
+networkcsharp\Participant.class
+networkcsharp\ResponseDto.class
+networkcsharp\IRequest.class

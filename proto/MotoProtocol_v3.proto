@@ -1,0 +1,43 @@
+syntax="proto3";
+package moto.protocol;
+
+option java_package = "moto.network.protobuffprotocol";
+option java_outer_classname = "MotoProtobufs";
+
+message UserDto{
+    repeated string username=1;
+    string message=2;
+}
+
+message ResponseDto{
+     string responseType=1;
+     string message=2;
+     repeated Participant participants=3;
+}
+
+message Participant{
+  int32 id=1;
+  string name=2;
+  string teamName=3;
+  int32 idRace=4;
+}
+
+message RequestDto{
+  string requestType=1;
+  Participant dto=2;
+}
+
+message IRequest{
+  oneof payload{
+    UserDto userDto = 1;
+    RequestDto requestDto = 2;
+  }
+}
+
+message IResponse{
+  oneof payload{
+    UserDto userDto = 1;
+    ResponseDto responseDto=2;
+  }
+}
+

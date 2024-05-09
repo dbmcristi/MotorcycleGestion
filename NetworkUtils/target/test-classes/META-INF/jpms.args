@@ -1,0 +1,4 @@
+--patch-module
+myproject.networking=_
+--add-reads
+myproject.networking=ALL-UNNAMED

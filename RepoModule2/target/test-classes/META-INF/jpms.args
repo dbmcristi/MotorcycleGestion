@@ -1,0 +1,4 @@
+--patch-module
+myproject.repository=_
+--add-reads
+myproject.repository=ALL-UNNAMED

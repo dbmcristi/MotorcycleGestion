@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ServerProtoBuff" />
+        <module name="NetworkModuleCSharp" />
+        <module name="SubaruBaja" />
+        <module name="Server" />
+        <module name="DomainModule" />
+        <module name="NetworkUtils" />
+        <module name="JDBCUtils" />
+        <module name="RepositoryModule" />
+        <module name="ServiceModule" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Domain" target="17" />
+      <module name="GestionMotorcyvleJavFX" target="17" />
+      <module name="NetworkingUtils" target="17" />
+      <module name="RepoModule" target="17" />
+      <module name="RepoModule2" target="17" />
+      <module name="Repository" target="17" />
+      <module name="Service" target="17" />
+      <module name="ServiceModule2" target="17" />
+      <module name="ServiceMoto" target="17" />
+      <module name="SubaruForester" target="17" />
+      <module name="SubaruImpreza" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

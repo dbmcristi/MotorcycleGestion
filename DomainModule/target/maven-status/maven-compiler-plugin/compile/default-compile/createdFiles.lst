@@ -1,0 +1,7 @@
+domain\Entity.class
+domain\EngineCapacity.class
+module-info.class
+domain\Race.class
+domain\Participant.class
+domain\User.class
+domain\UserInstance.class

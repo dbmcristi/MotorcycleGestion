@@ -1,0 +1,4 @@
+--patch-module
+myproject.networkingcsharp=_
+--add-reads
+myproject.networkingcsharp=ALL-UNNAMED

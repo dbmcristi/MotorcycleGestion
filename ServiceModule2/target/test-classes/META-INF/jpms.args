@@ -1,0 +1,4 @@
+--patch-module
+myproject.servicemodule=_
+--add-reads
+myproject.servicemodule=ALL-UNNAMED

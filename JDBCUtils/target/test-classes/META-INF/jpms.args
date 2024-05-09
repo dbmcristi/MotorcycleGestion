@@ -1,0 +1,4 @@
+--patch-module
+myproject.jdbcutils=_
+--add-reads
+myproject.jdbcutils=ALL-UNNAMED
